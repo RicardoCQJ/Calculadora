@@ -1,5 +1,8 @@
-version 1
+version = 1
+
 [[analyzers]]
-nane "python"
+name = "python"
+enabled = true
+
 [analyzers.meta]
-rontine version = "3.x.x"
+runtime_version = "3.12.0"
