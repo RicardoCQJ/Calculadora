@@ -1,4 +1,5 @@
-git add .deepsource.toml
-git commit -m "Agrega configuración básica de DeepSource para Python"
-git push origin main
-
+version 1
+[[analyzers]]
+nane "python"
+[analyzers.meta]
+rontine version = "3.x.x"
